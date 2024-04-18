@@ -1,4 +1,4 @@
-import '../assets/notfound.module.css';
+import '/assets/notfound.module.css';
 
 function NotFound() {
   const styles = `

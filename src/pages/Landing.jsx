@@ -13,7 +13,7 @@ function Landing() {
       >
        <Hero />
        <div className="absolute bottom-0 left-0 right-0 z-[-1]">
-        <img src="/src/assets/shape.sg" alt="shape" className="w-full h-screen opacity-65 md:opacity-35 bg-gray-600" />
+        <img src="../../assets/shape.sg" alt="shape" className="w-full h-screen opacity-65 md:opacity-35 bg-gray-600" />
         
       </div>
       
@@ -24,7 +24,7 @@ function Landing() {
       >
   
        <div className="absolute md:relative bottom-0 left-0 right-0 z-[-1]">
-        <img src="/src/assets/4-2.jpg" alt="shape" className="w-full h-screen opacity-65 md:opacity-100 bg-gray-600" />
+        <img src="../../assets/4-2.jpg" alt="shape" className="w-full h-screen opacity-65 md:opacity-100 bg-gray-600" />
       </div>
       <div className="md:mt-30 md:my-28">
      <Hero />
@@ -35,14 +35,14 @@ function Landing() {
     <section className="relative z-10 py-1 md:py-10 bg-white ">
         <About />
       <div className="absolute bottom-0 left-0 right-0 z-[-1]">
-        <img src="/src/assets/chain1.png" alt="shape" className="w-full opacity-15" />
+        <img src="../../assets/chain1.png" alt="shape" className="w-full opacity-15" />
       </div>
     </section>
 
     <section className="relative z-10 py-16 md:py-10 lg:py-10 bg-gray-300">
     <Features/>
       <div className="absolute bottom-0 left-0 right-0 z-[-1]">
-        <img src="/src/assets/shape.svg" alt="shape" className="w-full h-screen opacity-10 bg-transparent" />
+        <img src="../../assets/shape.svg" alt="shape" className="w-full h-screen opacity-10 bg-transparent" />
       
         
       </div>
@@ -52,14 +52,14 @@ function Landing() {
     <section className="relative z-10 py-16 md:py-10 lg:py-10 bg-white">
         <AboutTwo />
         <div className="absolute bottom-0 left-0 right-0 z-[-1]">
-        <img src="/src/assets/shape.svg" alt="shape" className="w-full opacity-10" />
+        <img src="../../assets/shape.svg" alt="shape" className="w-full opacity-10" />
       </div>
     </section>
 
     <section className="relative z-10 py-4 md:py-10 lg:py-10 bg-white">
     <Blog />
     <div className="absolute bottom-0 left-0 right-0 z-[-1]">
-        <img src="/src/assets/shape.svg" alt="shape" className="w-full opacity-5" />
+        <img src="../../assets/shape.svg" alt="shape" className="w-full opacity-5" />
       </div>
       </section>
 

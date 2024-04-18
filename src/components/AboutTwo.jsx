@@ -19,37 +19,37 @@ const AboutTwo = () => {
 <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
     <div className="grid gap-4">
         <div>
-            <img className="h-auto max-w-full rounded-lg" src="/src/assets/images/perimeter fencing 2 (2).jpg" alt="" />
+            <img className="h-auto max-w-full rounded-lg" src="../../assets/images/perimeter fencing 2 (2).jpg" alt="" />
         </div>
         <div>
-            <img className="h-auto max-w-full rounded-lg" src="/src/assets/images/sample perimeter fence.jpg" alt="" />
+            <img className="h-auto max-w-full rounded-lg" src="../../assets/images/sample perimeter fence.jpg" alt="" />
         </div>
         
     </div>
     <div className="grid gap-4">
         <div>
-            <img className="h-auto max-w-full rounded-lg" src="/src/assets/images/sample chainlink 2.jpg" alt="" />
+            <img className="h-auto max-w-full rounded-lg" src="../../assets/images/sample chainlink 2.jpg" alt="" />
         </div>
         <div>
-            <img className="h-auto max-w-full rounded-lg" src="/src/assets/images/sample wooden fence.jpeg" alt="" />
+            <img className="h-auto max-w-full rounded-lg" src="../../assets/images/sample wooden fence.jpeg" alt="" />
         </div>
        
     </div>
     <div className="grid gap-4">
         <div>
-            <img className="h-auto max-w-full rounded-lg" src="/src/assets/images/sample home fence.jpg" alt="" />
+            <img className="h-auto max-w-full rounded-lg" src="../../assets/images/sample home fence.jpg" alt="" />
         </div>
         <div>
-            <img className="h-auto max-w-full rounded-lg" src="/src/assets/images/sample chainlink 3.jpg" alt="" />
+            <img className="h-auto max-w-full rounded-lg" src="../../assets/images/sample chainlink 3.jpg" alt="" />
         </div>
         
     </div>
     <div className="grid gap-4">
         <div>
-            <img className="h-auto max-w-full rounded-lg" src="/src/assets/images/sample chainlink 4.jpg" alt="" />
+            <img className="h-auto max-w-full rounded-lg" src="../../assets/images/sample chainlink 4.jpg" alt="" />
         </div>
         <div>
-            <img className="h-auto max-w-full rounded-lg" src="/src/assets/images/barb (1).jpg" alt="" />
+            <img className="h-auto max-w-full rounded-lg" src="../../assets/images/barb (1).jpg" alt="" />
         </div>
         
     </div>

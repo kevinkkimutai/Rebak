@@ -30,14 +30,14 @@ const AboutPage = () => {
        <section className="relative z-10 py-4 md:py-4 bg-white ">
         <About />
       <div className="absolute bottom-0 left-0 right-0 z-[-1]">
-        <img src="/src/assets/chain1.png" alt="shape" className="w-full opacity-15" />
+        <img src="../../assets/chain1.png" alt="shape" className="w-full opacity-15" />
       </div>
     </section>
 
     <section className="relative z-10 py-0 md:py-10 lg:py-10 bg-white mb-10 md:mb-1">
         <AboutTwo />
         <div className="absolute bottom-0 left-0 right-0 z-[-1]">
-        <img src="/src/assets/shape.svg" alt="shape" className="w-full opacity-10" />
+        <img src="../../assets/shape.svg" alt="shape" className="w-full opacity-10" />
       </div>
     </section>
 

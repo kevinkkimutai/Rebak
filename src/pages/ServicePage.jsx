@@ -29,7 +29,7 @@ function ServicePage() {
     <section className="relative z-10 py-16 md:py-10 mt-4 bg-gray-300 mx-4">
     <Features/>
       <div className="absolute bottom-0 left-0 right-0 z-[-1]">
-        <img src="/src/assets/shape.svg" alt="shape" className="w-full h-screen opacity-10 bg-transparent" />
+        <img src="../../assets/shape.svg" alt="shape" className="w-full h-screen opacity-10 bg-transparent" />
       
         
       </div>
@@ -39,7 +39,7 @@ function ServicePage() {
     <section className="relative z-10 py-4 md:py-10 lg:py-10 bg-white">
     <Blog />
     <div className="absolute bottom-0 left-0 right-0 z-[-1]">
-        <img src="/src/assets/shape.svg" alt="shape" className="w-full opacity-5" />
+        <img src="../../assets/shape.svg" alt="shape" className="w-full opacity-5" />
       </div>
       </section>
     </div>

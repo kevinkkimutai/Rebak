@@ -64,7 +64,7 @@ const About = () => {
             data-wow-delay=".2s"
           >
             <img
-               src="/src/assets/fence.png"
+               src="../../assets/fence.png"
               alt="about-image"
               className="w-full"
             />
