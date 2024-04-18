@@ -17,7 +17,7 @@ function Blog() {
 
 <div className="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
     <a href="#">
-        <img className="rounded-t-lg" src="../../assets/images/sample perimeter fence.jpg" alt="" />
+        <img className="rounded-t-lg" src="/images/sample perimeter fence.jpg" alt="" />
     </a>
     <div className="p-2">
         
@@ -28,7 +28,7 @@ function Blog() {
 
 <div className="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
     <a href="#">
-        <img className="rounded-t-lg" src="../../assets/images/sample1.jpg" alt="" />
+        <img className="rounded-t-lg" src="/images/sample1.jpg" alt="" />
     </a>
     <div className="p-2">
         
@@ -39,7 +39,7 @@ function Blog() {
 
 <div className="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
     <a href="#">
-        <img className="rounded-t-lg" src="../../assets/images/sample electric 2.jpg" alt="" />
+        <img className="rounded-t-lg" src="/images/sample electric 2.jpg" alt="" />
     </a>
     <div className="p-2">
         
@@ -50,7 +50,7 @@ function Blog() {
 
 <div className="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
     <a href="#">
-        <img className="rounded-t-lg" src="../../assets/images/sample chainlink 3.jpg" alt="" />
+        <img className="rounded-t-lg" src="/images/sample chainlink 3.jpg" alt="" />
     </a>
     <div className="p-2">
         
